@@ -15,7 +15,7 @@ editor: visual
 
 Pasien dewasa dengan diabetes tipe 2 sebaiknya menjalani terapi nutrisi medis (diet) yang baik untuk mengontrol gula darah. Terdapat berbagai terapi nutrisi medis yang sudah diteliti membantu meningkatkan sensitivitas insulin. Salah satu pola diet yang bisa menjadi pilihan adalah diet vegetarian selain diet hipokalori yang sudah ada.
 
-"Apakah diet vegetarian mampu meningkatkan sensitivitas insulin pada pasien dewasa dengan diabetes tipe 2?"
+"Apakah diet vegetarian mampu meningkatkan sensitivitas insulin dibandingkan terapi diet standar DM pada pasien dewasa dengan diabetes tipe 2?"
 
 ## Research Question
 
